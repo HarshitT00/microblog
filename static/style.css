@@ -112,6 +112,10 @@ main{
     border-top: 4px solid black;
     color: white;
     font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .footer__content{
